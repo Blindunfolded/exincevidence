@@ -10,5 +10,8 @@ All files are password protected.
   - **Reflections** - books that inspect *You Know* in more detail
 - **Documents** - papers, etc
   - **Records** - record forms
-  - **Miscellaneous**
+  - **Legal Papers**
+  - **The Rauffenburg Files**
+- **Blog Entries**
+  - **SNM** S\ilent N\o M\ore, by AE
 Will be updated soon.
