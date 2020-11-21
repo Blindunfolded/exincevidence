@@ -6,6 +6,7 @@ All files are password protected.
 ## Folder Hierarchy (WIP)
 - **Books** - this is where book material / pages are located
   - **Evidence** - evidence against *You Know*
+    - **psg** - Pages/Issues of P\*s\*g\*
   - **Reflections** - books that inspect *You Know* in more detail
 - **Documents** - papers, etc
   - **Records** - record forms
